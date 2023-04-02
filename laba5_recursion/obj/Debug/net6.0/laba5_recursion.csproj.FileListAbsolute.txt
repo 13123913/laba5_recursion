@@ -1,0 +1,15 @@
+C:\Users\perel\source\repos\laba5_recursion\laba5_recursion\bin\Debug\net6.0\laba5_recursion.exe
+C:\Users\perel\source\repos\laba5_recursion\laba5_recursion\bin\Debug\net6.0\laba5_recursion.deps.json
+C:\Users\perel\source\repos\laba5_recursion\laba5_recursion\bin\Debug\net6.0\laba5_recursion.runtimeconfig.json
+C:\Users\perel\source\repos\laba5_recursion\laba5_recursion\bin\Debug\net6.0\laba5_recursion.dll
+C:\Users\perel\source\repos\laba5_recursion\laba5_recursion\bin\Debug\net6.0\laba5_recursion.pdb
+C:\Users\perel\source\repos\laba5_recursion\laba5_recursion\obj\Debug\net6.0\laba5_recursion.csproj.AssemblyReference.cache
+C:\Users\perel\source\repos\laba5_recursion\laba5_recursion\obj\Debug\net6.0\laba5_recursion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\perel\source\repos\laba5_recursion\laba5_recursion\obj\Debug\net6.0\laba5_recursion.AssemblyInfoInputs.cache
+C:\Users\perel\source\repos\laba5_recursion\laba5_recursion\obj\Debug\net6.0\laba5_recursion.AssemblyInfo.cs
+C:\Users\perel\source\repos\laba5_recursion\laba5_recursion\obj\Debug\net6.0\laba5_recursion.csproj.CoreCompileInputs.cache
+C:\Users\perel\source\repos\laba5_recursion\laba5_recursion\obj\Debug\net6.0\laba5_recursion.dll
+C:\Users\perel\source\repos\laba5_recursion\laba5_recursion\obj\Debug\net6.0\refint\laba5_recursion.dll
+C:\Users\perel\source\repos\laba5_recursion\laba5_recursion\obj\Debug\net6.0\laba5_recursion.pdb
+C:\Users\perel\source\repos\laba5_recursion\laba5_recursion\obj\Debug\net6.0\laba5_recursion.genruntimeconfig.cache
+C:\Users\perel\source\repos\laba5_recursion\laba5_recursion\obj\Debug\net6.0\ref\laba5_recursion.dll
